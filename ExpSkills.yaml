@@ -1,0 +1,37 @@
+exhibit: ExpSkills
+github_id: redux__ExpSkills    # ExpSkills exists in UNI too, so the REDUX edition is published under the redux__ prefix
+
+# internal — input for extract_exhibit.py, NOT shown on the card
+# The pack is installed in two steps, so the source list mirrors that: the base installer
+# first, the overlay on top (a later source OVERWRITES an earlier one). Inno Setup 6.4.3 is
+# newer than innoextract understands, so the installer is opened with innounp
+# (museum/innounp-2/); the .bin slices must stay next to the .exe. The extract run reports how
+# many files each source contributes — 0 means the archive does not touch this mod.
+source:
+  - kind: exe
+    path: C:/Users/ringill/repo/space_rangers/origin_artefact/downloaded/redux/Universe_Redux_1.6.0.exe
+    target: Mods/Expansion/ExpSkills
+  - kind: 7z
+    path: C:/Users/ringill/repo/space_rangers/origin_artefact/downloaded/redux/Universe Redux Fixes.7z
+    target: Mods/Expansion/ExpSkills
+
+# public — acquisition route, rendered in the card README.md
+acquire:
+  - ref: https://steamcommunity.com/sharedfiles/filedetails/?id=851524240
+    note: "[2026] Модификации | Universe и другие мод-паки"
+    date: 2026-08-01
+  - ref: https://discord.com/invite/SY4aDtDxET
+    note: ПБ Свободная Бухта
+    date:
+  - ref: https://discord.gg/a8zBNyJWv
+    note: "# скачать-моды"
+    date:
+  - ref: https://discord.com/channels/843886159582724117/843886159851683853/1342049852032417814
+    note: "Space Rangers Universe Redux"
+    date:
+  - ref: https://drive.google.com/drive/folders/1rRi6q03MnxaFiVgbnRmCJn2ibJnGSb9I
+    note: Установочные файлы
+    date: 2026-05-26
+  - ref: https://drive.google.com/drive/folders/1PVYDEXzjWLV-1s-afrjeF6CxBwyZcRar
+    note: Фиксы (нужны обязательно)
+    date: 2026-09-17
