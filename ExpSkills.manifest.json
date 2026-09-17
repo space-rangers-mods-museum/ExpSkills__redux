@@ -7,7 +7,8 @@
       "path": "C:\\Users\\ringill\\repo\\space_rangers\\origin_artefact\\downloaded\\redux\\Universe_Redux_1.6.0.exe",
       "size": 3922582,
       "sha256": "65a56e1ec8fce0c4b36795e423f1f6a0155092879585fcf3273bc2b6f70b4b87",
-      "files": 61
+      "files": 61,
+      "note": "pack unpacked at C:\\Users\\ringill\\repo\\space_rangers\\origin_artefact\\unpacked\\redux (installer and overlays applied there)"
     },
     {
       "kind": "7z",
@@ -15,7 +16,8 @@
       "path": "C:\\Users\\ringill\\repo\\space_rangers\\origin_artefact\\downloaded\\redux\\Universe Redux Fixes.7z",
       "size": 27592508,
       "sha256": "9d9a9d128a3c03bbf45fd0deb6f9d86d898f42c0ef7eb8902a277124c31ff86f",
-      "files": 0
+      "files": 0,
+      "note": "pack unpacked at C:\\Users\\ringill\\repo\\space_rangers\\origin_artefact\\unpacked\\redux (installer and overlays applied there)"
     }
   ],
   "exhibit_archive": {
