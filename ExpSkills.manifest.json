@@ -22,8 +22,9 @@
   ],
   "exhibit_archive": {
     "path": "ExpSkills.zip",
-    "size": 149961,
-    "sha256": "f312fe1ec28c1822b0bbe5e928f5560d5082706b3ab73c6740c1060b407c2a78",
+    "size": 153011,
+    "sha256": "eb6b10a07fba45a8d6bd8a7b87c3a481b106ef965f9e011f3b3b2f66f88b5db7",
+    "root": "Mods/Expansion/ExpSkills",
     "entries": 61
   },
   "files": [

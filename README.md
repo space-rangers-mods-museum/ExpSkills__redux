@@ -109,7 +109,7 @@ acquire:
 | DATA/Script/Mod_ExpSkills.scr | 4851e50aa828884a7d6ecefa6bdbe8f01f472f0df0d1a1282d62e9894ebb97e9 |
 | ModuleInfo.txt                | f5b23460ae60996e21075f9dd2f981ae7041ee06ed6852fb92a63d433fd40fae |
 
-> Final archive: [`ExpSkills.zip`](https://github.com/space-rangers-mods-museum/ExpSkills__redux/releases/download/v1.0.0/ExpSkills.zip) · SHA-256 `f312fe1ec28c1822b0bbe5e928f5560d5082706b3ab73c6740c1060b407c2a78`
+> Final archive: [`ExpSkills.zip`](https://github.com/space-rangers-mods-museum/ExpSkills__redux/releases/download/v1.0.0/ExpSkills.zip) · SHA-256 `eb6b10a07fba45a8d6bd8a7b87c3a481b106ef965f9e011f3b3b2f66f88b5db7`
 
 ---
 
