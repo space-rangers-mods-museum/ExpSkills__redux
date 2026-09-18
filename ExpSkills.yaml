@@ -1,5 +1,5 @@
 exhibit: ExpSkills
-github_id: redux__ExpSkills    # ExpSkills exists in UNI too, so the REDUX edition is published under the redux__ prefix
+github_id: ExpSkills__redux    # ExpSkills ships in UNI too, so both editions carry the pack as a suffix
 
 # internal — input for extract_exhibit.py, NOT shown on the card
 # The pack is installed in two steps, so the source list mirrors that: the base installer
